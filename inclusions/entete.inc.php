@@ -3,7 +3,8 @@
   
   // Les langues disponibles
   $languesDisponibles = obtenirLanguesDisponibles();
-
+   
+  
   // Déterminer la langue du site
   $lan = determinerLangue('fr', $languesDisponibles);
   
